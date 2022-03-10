@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="FrameWorkDesign(failed)">
+    <classes>
+      <class name="PGObjmodel.OPMRSLoginTest">
+        <methods>
+          <include name="init"/>
+          <include name="afterClass"/>
+          <include name="TestSuccessfull"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- PGObjmodel.OPMRSLoginTest -->
+    </classes>
+  </test> <!-- FrameWorkDesign(failed) -->
+</suite> <!-- Failed suite [Suite] -->
